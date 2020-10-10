@@ -1,0 +1,7 @@
+domain: xhs.im
+repo: xhs.im/kdemo
+resources:
+- group: mygroup
+  kind: MyKind
+  version: v1beta1
+version: "2"
